@@ -21,6 +21,7 @@ RUN install2.r --error \
     boot \
     clusterGeneration \
     darch \
+    FCNN4R \
     neuralnet \
     nnet \
     RcppDL \
